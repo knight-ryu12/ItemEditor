@@ -1,0 +1,6 @@
+name: ItemEditor
+main: ml.chromaryu.itemeditor.Main
+version: 0.1
+commands:
+ itemedit:
+  description: edit items
